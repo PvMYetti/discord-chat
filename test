@@ -1,0 +1,9 @@
+<html>
+  <head>
+    <title>Home</title>
+    <!--CSS-->
+    <style type="text/css">
+    body{ margin: 0px auto; background: yellow; }
+    </style>
+   </head>
+  </html>
